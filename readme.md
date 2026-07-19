@@ -45,5 +45,3 @@ For more information about Lovable and its capabilities, visit [Lovable Document
 For issues or questions about this prototype, please refer to Lovable support or contact your administrator.
 
 ---
-
-**Created with ❤️ using Lovable**
