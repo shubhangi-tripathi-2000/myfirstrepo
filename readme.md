@@ -1,10 +1,10 @@
-# HR Dashboard
+# HRBP Tool Prototype
 
-A modern and intuitive HR Dashboard built with **Lovable** to streamline human resources management and employee operations.
+An HRBP dashboard prototype created to showcase an organization’s employee pulse through key workforce insights. It highlights engagement status, attrition, regrettable attrition, retention, cost and profitability, capacity planning, and backup coverage in a single, intuitive view.
 
 ## Overview
 
-This HR Dashboard provides a comprehensive solution for managing employee data, tracking metrics, and generating insights for HR teams. The application is designed with a focus on user experience and efficiency.
+This prototype is designed to help HR business partners and leadership teams quickly understand workforce health and organizational performance. The dashboard focuses on clarity, decision support, and a modern user experience for monitoring critical people metrics.
 
 ## Built With
 
@@ -21,20 +21,20 @@ Paste your Lovable project link here:
 
 Or visit: `https://lovable.dev/projects/[YOUR_PROJECT_ID]`
 
-## Features
+## Key Features
 
-- 📊 Dashboard Overview
-- 👥 Employee Management
-- 📈 Analytics & Reporting
-- 🎯 Performance Tracking
-- 📅 Scheduling & Attendance
-- 💼 Leave Management
+- 📊 Employee pulse and engagement status
+- 📉 Attrition and regrettable attrition tracking
+- 🔒 Retention insights
+- 💰 Cost and profitability indicators
+- 🧠 Capacity planning views
+- 🛡️ Backup and coverage visibility
 
 ## Getting Started
 
-1. Access the dashboard through the Lovable link above
-2. Log in with your credentials
-3. Navigate through the different sections to manage HR operations
+1. Open the dashboard through the Lovable link above
+2. Review the key workforce metrics and trends
+3. Use the insights to support HR planning and decision-making
 
 ## Documentation
 
@@ -42,7 +42,7 @@ For more information about Lovable and its capabilities, visit [Lovable Document
 
 ## Support
 
-For issues or questions about this HR Dashboard, please refer to Lovable support or contact your administrator.
+For issues or questions about this prototype, please refer to Lovable support or contact your administrator.
 
 ---
 
